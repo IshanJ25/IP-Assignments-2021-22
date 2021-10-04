@@ -1,4 +1,3 @@
-# IP-Assignments-2021-22
 IP Assignments (Session 2021-22)
 
 Welcome to this repository
